@@ -1,5 +1,5 @@
 # Python-Password-Generator
-#### 🔑 Create a safe password for your personal use
+#### 🔑 Create a safer password to protect your personal data 🔑
 
 This is a Python shell script that generated  password for the user.
 
