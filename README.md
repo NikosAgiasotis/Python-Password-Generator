@@ -5,7 +5,7 @@ This is a Python shell script that generated  password for the user.
 
 > Test
 
-Password Options : 
+⛮ Password Options : 
 - Uppercase Letters
 - Lowercase Letters
 - Digits
