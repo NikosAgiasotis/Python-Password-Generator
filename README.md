@@ -8,3 +8,7 @@ This is a Python 3 shell script that generated  password for the user.
 - Lowercase Letters
 - Digits
 - Symbols
+
+## How to run ?
+
+py 
