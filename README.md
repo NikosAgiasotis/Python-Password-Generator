@@ -11,5 +11,4 @@ This is a Python 3 shell script that generated  password for the user.
 
 ## How to run ?
 
-1. Open the command line 
-2. py pwd_gen.py
+1. Press : py pwd_gen.py
